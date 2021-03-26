@@ -11,13 +11,13 @@ ul.navbar{
 	left: 1em;
 	width: 9em;
 }
-ul.navbar{
+ul.navbar li {
 	background: white;
 	margin:  0.5em 0;
 	padding: 0.3em;
 	border-right: 1em solid black
 }
-ul.navbar a{
+ul.navbar a {
 	text-decoration: none
 }
 a:link{
@@ -33,7 +33,7 @@ address{
 	border-top: thin dotted
 }
 h1{
-	font-family: llelvetica,
+	font-family: Helvetica,
 	color: blue;
 }
 h2{
