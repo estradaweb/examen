@@ -2,7 +2,7 @@ body{
 	color: purple;
 	background-color: #d8da3d;
 }
-.navbar{
+.navbar li{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
