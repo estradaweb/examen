@@ -11,9 +11,9 @@ body{
 	left: 1em;
 	width: 9em;
 }
-.navbar li a {
+.navbar li  {
 	background: white;
-	margin:  0.6em 0;
+	margin:  0.5em 0;
 	padding: 0.3em;
 	border-right: 1em solid black
 }
