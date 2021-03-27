@@ -2,7 +2,7 @@ body{
 	color: purple;
 	background-color: #d8da3d;
 }
-.navbar li{
+.navbar {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
@@ -11,7 +11,7 @@ body{
 	left: 1em;
 	width: 9em;
 }
-.navbar li a {
+.navbar  a {
 	background: white;
 	margin:  0.5em 0;
 	padding: 0.3em;
