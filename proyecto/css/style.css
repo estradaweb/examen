@@ -2,7 +2,7 @@ body{
 	color: purple;
 	background-color: #d8da3d;
 }
-ul.navbar {
+.navbar ul{
 	list-style-type: none;
 	padding: 0;
 	margin: 5;
@@ -11,13 +11,13 @@ ul.navbar {
 	left: 1em;
 	width: 9em;
 }
-ul.navbar li a {
+.navbar li a {
 	background: white;
 	margin:  0.5em 0;
 	padding: 0.3em;
 	border-right: 1em solid black
 }
-ul.navbar a {
+.navbar a {
 	text-decoration: none
 }
 a:link{
