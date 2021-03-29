@@ -18,14 +18,14 @@ body{
 	border-right: 1cm solid black
 		}
   ul.navbar a {
-	text-decoration: none
+	text-decoration: none;
 		}
 	a:link{
-	color: blue
+	color: blue;
 
 	}
 	a:visited{
-	color: purple
+	color: purple;
 	}
 	address{
 	margin-top: 1cm;
@@ -33,7 +33,7 @@ body{
 	border-top: thin dotted
 	}
 h1{
-	font-family: Helvetica,
+	font-family: Helvetica;
 	color: blue;
 	}
 h2{
